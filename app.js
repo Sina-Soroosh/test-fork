@@ -1,0 +1,1 @@
+const fakeVariable = "fake value";
